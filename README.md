@@ -18,6 +18,12 @@ Quality & DX: ESLint/Prettier, Jest/RTL, GitHub Actions, Docker (basic)
 
 Selected projects
 
+TravelTrucks (pet project, solo) — responsive camper-rental web app: catalog, filters, favorites, detailed pages; focus on performance (LCP) & SEO
+Live: https://travel-trucks-eta-eight.vercel.app/
+
+Stork (Team Leader; Backend) — pregnancy-tracking REST API for the app: JWT auth, user profiles, tracking endpoints, Swagger UI & ReDoc
+Live docs: https://nodejs-stork.onrender.com/api-docs
+
 Personal Portfolio — responsive portfolio with a “My Projects” gallery
 Live: https://sselesnes.github.io/project-group-09/
 
