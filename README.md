@@ -11,7 +11,7 @@ Current goal: deepen my knowledge and skills in React/Next.js and Node.js (TypeS
 
 Tech stack
 
-Frontend: React, Next.js, TypeScript, HTML5, SCSS/Tailwind
+Frontend: React, Next.js, TypeScript, HTML5, CSS, SCSS
 Backend: Node.js, Express, REST APIs, JWT/OAuth
 DB: MongoDB (Mongoose)
 Quality & DX: ESLint/Prettier, Jest/RTL, GitHub Actions, Docker (basic)
