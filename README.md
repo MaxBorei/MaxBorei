@@ -8,10 +8,7 @@
 
 Junior Full-Stack Developer focused on **React / Next.js** and **Node.js**.
 
-I work on small features end-to-end:  
-**planning → implementation → testing → documentation**.
-
-I take ownership of tasks, improve **UX/UI**, **performance**, and **accessibility** where applicable, and aim to ship **clean, maintainable code**.
+I complete tasks and meet deadlines.
 
 ---
 
