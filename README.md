@@ -45,6 +45,15 @@ I complete tasks and meet deadlines.
 
 ## Selected Projects
 
+###  👶 Nanny.Services — Babysitter Marketplace
+React + TypeScript app with authentication, protected routes, modal-based forms, and appointment booking.
+Features form validation, reusable UI components, animations, and multi-theme support.
+
+🔗 Live:  
+https://nanny-services.onrender.com/
+
+---
+
 ### 🚐 TravelTrucks (solo, pet project)
 Responsive camper-rental web app with:
 - catalog
@@ -78,14 +87,6 @@ Responsive marketing landing for a mobile game:
 
 🔗 Live:  
 https://tms-zngs.github.io/sugar_blast_land_4/
-
----
-
-###  Chocolate Landing (facultative)
-Brand landing with clear CTAs and responsive layout.
-
-🔗 Live:  
-https://sselesnes.github.io/project-DevHive2/index.html
 
 ---
 
