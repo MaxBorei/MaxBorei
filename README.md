@@ -45,12 +45,21 @@ I complete tasks and meet deadlines.
 
 ## Selected Projects
 
-###  👶 Nanny.Services — Babysitter Marketplace
+###  🧠 Psychologists.Services — Psychologist Marketplace (solo, pet project)
+Vanilla JavaScript + Vite app with Firebase authentication, native SPA routing, psychologists catalog, sorting, and favorites.
+Includes modal-based forms (auth + appointment), “load more” pagination, persistent favorites state, and responsive UI.
+
+🔗 Live:  
+[https://nanny-services.onrender.com/](https://psychologists-services-kxhb.onrender.com)
+
+---
+
+###  👶 Nanny.Services — Babysitter Marketplace (solo, pet project)
 React + TypeScript app with authentication, protected routes, modal-based forms, and appointment booking.
 Features form validation, reusable UI components, animations, and multi-theme support.
 
 🔗 Live:  
-https://nanny-services.onrender.com/
+[https://nanny-services.onrender.com/](https://nanny-services.onrender.com/)
 
 ---
 
@@ -64,7 +73,7 @@ Responsive camper-rental web app with:
 Focus on **performance (LCP)**, **SEO**, and **clean UI**.
 
 🔗 Live:  
-https://travel-trucks-eta-eight.vercel.app/
+[https://travel-trucks-eta-eight.vercel.app/](https://travel-trucks-eta-eight.vercel.app/)
 
 ---
 
@@ -76,7 +85,7 @@ REST API for a pregnancy-tracking app:
 - API documentation (Swagger / ReDoc)
 
 🔗 Live docs:  
-https://nodejs-stork.onrender.com/api-docs
+[https://nodejs-stork.onrender.com/api-docs](https://nodejs-stork.onrender.com/api-docs)
 
 ---
 
@@ -86,7 +95,7 @@ Responsive marketing landing for a mobile game:
 - legal pages
 
 🔗 Live:  
-https://tms-zngs.github.io/sugar_blast_land_4/
+[https://tms-zngs.github.io/sugar_blast_land_4/](https://tms-zngs.github.io/sugar_blast_land_4/)
 
 ---
 
