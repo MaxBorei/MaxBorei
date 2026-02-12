@@ -64,13 +64,9 @@ Features form validation, reusable UI components, animations, and multi-theme su
 ---
 
 ### 🚐 TravelTrucks (solo, pet project)
-Responsive camper-rental web app with:
-- catalog
-- filters
-- favorites
-- detailed pages
 
-Focus on **performance (LCP)**, **SEO**, and **clean UI**.
+Next.js + TypeScript app with catalog and trucks details pages, API integration, and rental booking forms.
+Features App Router navigation, Axios-based data fetching, responsive UI, and modular styling.
 
 🔗 Live:  
 [https://travel-trucks-eta-eight.vercel.app/](https://travel-trucks-eta-eight.vercel.app/)
