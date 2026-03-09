@@ -13,33 +13,14 @@ I complete tasks and meet deadlines.
 ---
 
 ## Tech Stack
-
-### Languages
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
-
-### Frontend
 - React
 - Next.js
 - HTML5
 - CSS / SCSS
-
-### Backend
 - Node.js
-- Express
-- REST APIs
-- JWT authentication
-
-### Database
 - MongoDB (Mongoose)
-
----
-
-## Tools & Workflow
-- Git, GitHub
-- ESLint / Prettier
-- Jest, React Testing Library (basic)
-- Swagger / ReDoc (API documentation)
 
 ---
 
