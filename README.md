@@ -26,6 +26,18 @@ I complete tasks and meet deadlines.
 
 ## Selected Projects
 
+📚 Learn Lingo — Language Learning Platform (solo, pet project)
+
+Single Page Application built with Vanilla JavaScript + Vite featuring native SPA routing, teachers catalog, filtering, favorites management, and Firebase authentication.
+
+The project includes modal-based interactions (login, registration, trial lesson booking), dynamic content loading, and persistent user state.
+
+Additional UI features include Scroll To Top, Theme Switcher, responsive layout, and smooth client-side navigation without page reloads.
+
+🔗 Live:
+[https://learn-lingo.onrender.com/](https://learn-lingo.onrender.com/)
+---
+
 ###  🧠 Psychologists.Services — Psychologist Marketplace (solo, pet project)
 Vanilla JavaScript + Vite app with Firebase authentication, native SPA routing, psychologists catalog, sorting, and favorites.
 Includes modal-based forms (auth + appointment), “load more” pagination, persistent favorites state, and responsive UI.
