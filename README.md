@@ -34,7 +34,7 @@ The project includes modal-based interactions (login, registration, trial lesson
 
 Additional UI features include Scroll To Top, Theme Switcher, responsive layout, and smooth client-side navigation without page reloads.
 
-🔗 Live:
+🔗 Live:         
 [https://learn-lingo-iota-vert.vercel.app](https://learn-lingo-iota-vert.vercel.app)
 
 ---
