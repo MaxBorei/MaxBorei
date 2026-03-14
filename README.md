@@ -36,6 +36,7 @@ Additional UI features include Scroll To Top, Theme Switcher, responsive layout,
 
 🔗 Live:
 [https://learn-lingo.onrender.com/](https://learn-lingo.onrender.com/)
+
 ---
 
 ###  🧠 Psychologists.Services — Psychologist Marketplace (solo, pet project)
